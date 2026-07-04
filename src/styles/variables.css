@@ -1,0 +1,21 @@
+:root {
+  --color-ink: #16191d;
+  --color-graphite: #252b31;
+  --color-steel: #687783;
+  --color-line: rgba(255, 255, 255, 0.18);
+  --color-paper: #f7f3ec;
+  --color-white: #ffffff;
+  --color-red: #c6382d;
+  --color-red-dark: #98281f;
+  --color-gold: #d7a84f;
+
+  --font-heading: "Sora", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  --container: 1180px;
+  --gutter: clamp(20px, 4vw, 48px);
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --shadow-lg: 0 28px 80px rgba(0, 0, 0, 0.34);
+  --ease: 180ms ease;
+}
